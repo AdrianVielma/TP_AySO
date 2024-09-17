@@ -1,0 +1,193 @@
+ls
+man ls
+pwd
+whoami
+ecgo
+echo
+echo "hola
+echo "hola"
+echo "hola" 
+
+
+
+
+
+
+echo $HOME
+pwd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asdasd
+
+das
+
+CLEAR
+
+
+
+
+
+
+ls
+cd repogit/
+ls
+cd Repo_Vielma/
+ls
+cat historial.txt 
+git status
+git commit -m "Mi Primer Commit"
+git config --global user.name "AdrianVielma"
+git commit -m "Mi Primer Commit"
+git push 
+git status
+exit
+ls
+ls -l
+ls -la
+man ls
+man man
+pwd
+whoami
+echo
+echo "hola"
+echo $HOME
+ls
+cat README 
+cd repogit/
+ls
+git clone https://github.com/AdrianVielma/Repo_Vielma.git
+ls
+cd Repo_Vielma/
+ls
+history
+history > historial.txt
+ls
+cat historial.txt
+git status
+git add .
+git status
+git commit -m "Primer commit"
+git config --global user.email "adrianochox@gmail.com"
+cd repogit
+git clone git@github.com:AdrianVielma/TP_AySO.git
+ls
+cd TP_AySO/
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git status
+git commit -m "ADD: agregando 1er ejercicio sobre datos_usuarios.txt"
+head /proc/cpuinfo | grep "model name"
+echo "Model name=$(head /proc/cpuinfo | grep "model name")" >> datos_usuario.txt
+ls
+cat datos_usuario.txt 
+git status
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+grep -v nologin /etc/passwd | sort -t": " -k10
+echo "$(grep -v nologin /etc/passwd | sort -t":" -k10)" > lista_ordenada.txt
+git status
+git add .
+git commit -m "ADD: Lista de usuarioss ordenada"
+git status
+apropos "dump traffic"
+echo "$(apropos "dump traffic")" > comando_dump_net
+ls
+cat comando_dump_net 
+ls
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+ls
+cat << FIN >> README.md 
+Alumno: Adrian Oscar
+Apellido: Vielma Lucero
+FIN
+
+rm README.md 
+ls
+cat << FIN >> README.md
+Alumno: Adrian Oscar Vielma Lucero
+Division: 115
+Turno: Mañana
+FIN
+
+ls
+cat README.md 
+git status
+git add .
+git commit -m "ADD: agregue al archivo README alumno, division y turno."
+history -a $HOME/.bash_history
+pwd
+echo $HOME
+ls
+ls -l
+ls -la
+ssh-keygen -t ed25519
+ls -la 
+cd .ssh
+ls
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:AdrianVielma/Repo_Vielma.git
+ls
+ls -l
+cd Repo_Vielma/
+ls -l
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git status
+git add .
+git status
+git commit -m 
+git commit -m "Agrego hola"
+git status
+git push
+SHA256:Hp2yMmqOFQPnInqzBB/Mdar8KoguyVQFIE+81r3FjQI
+git status
+git push
+git status
+git push
+git push -u origin main
+git push
+git push --set-upstream origin main
+git push
